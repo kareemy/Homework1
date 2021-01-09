@@ -47,6 +47,6 @@ Dr. Sean Humpherys has the following 4 patients:
     git status
     ```
 4. Verify that your changes are on GitHub.
-6. Congratulations! Your lab 2 assignment is complete. 
+6. Congratulations! Your assignment is complete.
 
 
